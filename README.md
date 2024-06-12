@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Macdizie
+- 👋 Hi, I’m Mark Torres
 - 👀 I’m interested in hanging out with my family and watching sports
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on 
